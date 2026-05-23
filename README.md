@@ -1,4 +1,3 @@
-# .github
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3c95,30:1a7fbf,70:0052cc,100:00e5b0&height=220&section=header&text=Alera&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Mobil%20Güvenlik%20ve%20Davranış%20Analizi%20Platformu&descAlignY=62&descSize=22&animation=fadeIn" width="100%"/>
